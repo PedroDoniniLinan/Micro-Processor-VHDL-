@@ -1,0 +1,57 @@
+Active-HDL 10.3.3559.6081  2017-07-05 03:08:54
+
+Elaboration top modules:
+Architecture                  PMIPS(PicoMIPS)
+
+
+-----------------------------------------------------------------------------------------------------------
+Entity         | Architecture          | Library  | Info | Compiler Version          | Compilation Options
+-----------------------------------------------------------------------------------------------------------
+PicoMIPS       | PMIPS                 | picomips |      | 10.3.3559.6081  (Windows) | -O3
+UCP_Carimbo    | UCP_CarimboEstrutural | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Hierarq_Estrut | estrutural            | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Carimbo_UC     | estrutural            | picomips |      | 10.3.3559.6081  (Windows) | -O3
+FD_Estrut      | estrutural            | picomips |      | 10.3.3559.6081  (Windows) | -O3
+MC             | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+MaPROM_cop     | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+MaPROM_funct   | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mux_4x1_1b     | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mux_2x1_5b     | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+RE             | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+ALU            | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Add_32         | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mux_4x1_32b    | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mux_2x1_32b    | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mux_4x1_5b     | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Reg_32         | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Sign_Extend    | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Shift_Left_2   | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+RegFile        | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Cache_Inst     | Cache_Inst            | picomips |      | 10.3.3559.6081  (Windows) | -O3
+UC_CACHEI      | UC_CACHEI_ASM         | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Cache_dados    | Cache_dados           | picomips |      | 10.3.3559.6081  (Windows) | -O3
+UC_CACHED      | UC_CD                 | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mp             | Mp                    | picomips |      | 10.3.3559.6081  (Windows) | -O3
+UC_MP          | UCMPA                 | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mux_2x1_1b     | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+Mux_4x1_16b    | comportamental        | picomips |      | 10.3.3559.6081  (Windows) | -O3
+-----------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
+VHDL Package                           | Library  | Info | Compiler Version          | Compilation Options
+-----------------------------------------------------------------------------------------------------------
+standard                               | std      |      |                           | <unavailable>
+TEXTIO                                 | std      |      | 10.3.3559.6081  (Windows) |  -2008
+std_logic_1164                         | ieee     |      | 10.3.3559.6081  (Windows) |  -2008
+std_logic_arith                        | ieee     |      | 10.3.3559.6081  (Windows) | <unavailable>
+STD_LOGIC_UNSIGNED                     | ieee     |      | 10.3.3559.6081  (Windows) | <unavailable>
+STD_LOGIC_SIGNED                       | ieee     |      | 10.3.3559.6081  (Windows) | <unavailable>
+-----------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
+Library                                | Comment
+-----------------------------------------------------------------------------------------------------------
+ieee                                   | Standard IEEE packages library
+picomips                               | None
+std                                    | Standard VHDL library
+-----------------------------------------------------------------------------------------------------------

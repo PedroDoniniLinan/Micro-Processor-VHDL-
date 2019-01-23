@@ -1,0 +1,141 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=PicoMIPS
+
+[Library]
+PicoMIPS=.\PicoMIPS\PicoMIPS.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\UCP_Carimbo\UCP_Carimbo\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+PicoMIPS=.
+Active_lib=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=picomips|PMIPS|0 ucpcarimbotb|UCPCarimboTBArch|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/PicoMIPS.vhd=-1
+/uc_cache_dados.vhd=-1
+/uc_cache_inst.vhd=-1
+/mux_8x1_32b.vhd=-1
+/ram.vhd=-1
+/mux_4x1_32b.vhd=-1
+/uc_cached.vhd=-1
+/uc_mp.vhd=-1
+/uc_cachei.vhd=-1
+/regfile.vhd=-1
+/sign_extend.vhd=-1
+/shift_left_2.vhd=-1
+/re.vhd=-1
+/reg_32.vhd=-1
+/mux_4x1_16b.vhd=-1
+/minst.vhd=-1
+/mux_2x1_1b.vhd=-1
+/mux_2x1_5b.vhd=-1
+/mux_4x1_1b.vhd=-1
+/mux_2x1_32b.vhd=-1
+/mp.vhd=-1
+/maprom_cop.vhd=-1
+/mc.vhd=-1
+/mdado.vhd=-1
+/maprom_funct.vhd=-1
+/cache_dados.vhd=-1
+/cache_inst.vhd=-1
+/alu.vhd=-1
+/add_32.vhd=-1
+/carimbo_uc.vhd=-1
+/fd_estrut.vhd=-1
+/fd_debug.vhd=-1
+/ucp_carimbo.vhd=-1
+/ucp_carimbotb.vhd=-1
+/fd_tstb.vhd=-1
+/hierarq_mem.vhd=-1
+/wave.asdb=-1
+/untitled.awc=-1
+/xablau.awc=-1
+/ucpcarimbotb.awc=-1
+/carimbo_tb.awc=-1
+/ucpcarimbotb.asdb=-1
+/carimbo_tb.vhd=-1
+/mux_4x1_5b.vhd=-1
+/untitled2.awc=-1
+
+[Files.Data]
+.\src\PicoMIPS.vhd=VHDL Source Code
+.\src\uc_cache_dados.vhd=VHDL Source Code
+.\src\uc_cache_inst.vhd=VHDL Source Code
+.\src\mux_8x1_32b.vhd=VHDL Source Code
+.\src\ram.vhd=VHDL Source Code
+.\src\mux_4x1_32b.vhd=VHDL Source Code
+.\src\uc_cached.vhd=VHDL Source Code
+.\src\uc_mp.vhd=VHDL Source Code
+.\src\uc_cachei.vhd=VHDL Source Code
+.\src\regfile.vhd=VHDL Source Code
+.\src\sign_extend.vhd=VHDL Source Code
+.\src\shift_left_2.vhd=VHDL Source Code
+.\src\re.vhd=VHDL Source Code
+.\src\reg_32.vhd=VHDL Source Code
+.\src\mux_4x1_16b.vhd=VHDL Source Code
+.\src\minst.vhd=VHDL Source Code
+.\src\mux_2x1_1b.vhd=VHDL Source Code
+.\src\mux_2x1_5b.vhd=VHDL Source Code
+.\src\mux_4x1_1b.vhd=VHDL Source Code
+.\src\mux_2x1_32b.vhd=VHDL Source Code
+.\src\mp.vhd=VHDL Source Code
+.\src\maprom_cop.vhd=VHDL Source Code
+.\src\mc.vhd=VHDL Source Code
+.\src\mdado.vhd=VHDL Source Code
+.\src\maprom_funct.vhd=VHDL Source Code
+.\src\cache_dados.vhd=VHDL Source Code
+.\src\cache_inst.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\add_32.vhd=VHDL Source Code
+.\src\carimbo_uc.vhd=VHDL Source Code
+.\src\fd_estrut.vhd=VHDL Source Code
+.\src\fd_debug.vhd=VHDL Source Code
+.\src\ucp_carimbo.vhd=VHDL Source Code
+.\src\ucp_carimbotb.vhd=VHDL Source Code
+.\src\fd_tstb.vhd=VHDL Source Code
+.\src\hierarq_mem.vhd=VHDL Source Code
+.\src\wave.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\xablau.awc=Accelerated Waveform Configuration
+.\src\ucpcarimbotb.awc=Accelerated Waveform Configuration
+.\src\carimbo_tb.awc=Accelerated Waveform Configuration
+.\src\ucpcarimbotb.asdb=Accelerated Waveform File
+.\src\carimbo_tb.vhd=VHDL Source Code
+.\src\mux_4x1_5b.vhd=VHDL Source Code
+.\src\untitled2.awc=Accelerated Waveform Configuration
+

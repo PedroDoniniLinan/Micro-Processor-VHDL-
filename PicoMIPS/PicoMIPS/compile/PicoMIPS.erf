@@ -1,0 +1,309 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\PicoMIPS.vhd" 
+MESSAGE "Compile Entity "PicoMIPS"" 
+MESSAGE "Compile Architecture "PMIPS" of Entity "PicoMIPS"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\uc_cache_dados.vhd" 
+MESSAGE "Compile Entity "UC_Cache_dados"" 
+MESSAGE "Compile Architecture "UC_Cache_dados" of Entity "UC_Cache_dados"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\uc_cache_inst.vhd" 
+MESSAGE "Compile Entity "UC_Cache_inst"" 
+MESSAGE "Compile Architecture "UC_Cache_Inst" of Entity "UC_Cache_Inst"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_8x1_32b.vhd" 
+MESSAGE "Compile Entity "Mux_8x1_32b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_8x1_32b"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\ram.vhd" 
+MESSAGE "Compile Entity "Ram"" 
+MESSAGE "Compile Architecture "Ram" of Entity "Ram"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_4x1_32b.vhd" 
+MESSAGE "Compile Entity "Mux_4x1_32b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_4x1_32b"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\uc_cached.vhd" 
+MESSAGE "Compile Entity "UC_CACHED"" 
+MESSAGE "Compile Architecture "UC_CD" of Entity "UC_CACHED"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\uc_mp.vhd" 
+MESSAGE "Compile Entity "UC_MP"" 
+MESSAGE "Compile Architecture "UCMPA" of Entity "UC_MP"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\uc_cachei.vhd" 
+MESSAGE "Compile Entity "UC_CACHEI"" 
+MESSAGE "Compile Architecture "UC_CACHEI_ASM" of Entity "UC_CACHEI"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\regfile.vhd" 
+MESSAGE "Compile Entity "RegFile"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "RegFile"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\sign_extend.vhd" 
+MESSAGE "Compile Entity "Sign_Extend"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Sign_Extend"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\shift_left_2.vhd" 
+MESSAGE "Compile Entity "Shift_Left_2"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Shift_Left_2"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\re.vhd" 
+MESSAGE "Compile Entity "RE"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "RE"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\reg_32.vhd" 
+MESSAGE "Compile Entity "Reg_32"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Reg_32"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_4x1_16b.vhd" 
+MESSAGE "Compile Entity "Mux_4x1_16b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_4x1_16b"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\minst.vhd" 
+MESSAGE "Compile Entity "Minst"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Minst"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_2x1_1b.vhd" 
+MESSAGE "Compile Entity "Mux_2x1_1b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_2x1_1b"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_2x1_5b.vhd" 
+MESSAGE "Compile Entity "Mux_2x1_5b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_2x1_5b"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_4x1_1b.vhd" 
+MESSAGE "Compile Entity "Mux_4x1_1b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_4x1_1b"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_2x1_32b.vhd" 
+MESSAGE "Compile Entity "Mux_2x1_32b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_2x1_32b"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mp.vhd" 
+MESSAGE "Compile Entity "Mp"" 
+MESSAGE "Compile Architecture "Mp" of Entity "Mp"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\maprom_cop.vhd" 
+MESSAGE "Compile Entity "MaPROM_cop"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "MaPROM_cop"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mc.vhd" 
+MESSAGE "Compile Entity "MC"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "MC"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mdado.vhd" 
+MESSAGE "Compile Entity "Mdado"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mdado"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\maprom_funct.vhd" 
+MESSAGE "Compile Entity "MaPROM_funct"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "MaPROM_funct"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\cache_dados.vhd" 
+MESSAGE "Compile Entity "Cache_dados"" 
+MESSAGE "Compile Architecture "Cache_dados" of Entity "Cache_dados"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\cache_inst.vhd" 
+MESSAGE "Compile Entity "Cache_Inst"" 
+MESSAGE "Compile Architecture "Cache_Inst" of Entity "Cache_Inst"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\alu.vhd" 
+MESSAGE "Compile Entity "ALU"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "ALU"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\add_32.vhd" 
+MESSAGE "Compile Entity "Add_32"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Add_32"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\carimbo_uc.vhd" 
+MESSAGE "Compile Entity "Carimbo_UC"" 
+MESSAGE "Compile Architecture "estrutural" of Entity "Carimbo_UC"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\fd_estrut.vhd" 
+MESSAGE "Compile Entity "FD_Estrut"" 
+MESSAGE "Compile Architecture "estrutural" of Entity "FD_Estrut"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\fd_debug.vhd" 
+MESSAGE "Compile Entity "FD_Debug"" 
+MESSAGE "Compile Architecture "Debugural" of Entity "FD_Debug"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\ucp_carimbo.vhd" 
+MESSAGE "Compile Entity "UCP_Carimbo"" 
+MESSAGE "Compile Architecture "UCP_CarimboEstrutural" of Entity "UCP_Carimbo"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\ucp_carimbotb.vhd" 
+MESSAGE "Compile Entity "UCPCarimboTB"" 
+MESSAGE "Compile Architecture "UCPCarimboTBArch" of Entity "UCPCarimboTB"" 
+WARNING ELAB1_0026: "There is no default binding for component "UCP_Carimbo". (Port "menable" is not on the entity)." "C:\My_Designs\PicoMIPS\PicoMIPS\src\ucp_carimbotb.vhd" 55 0
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\fd_tstb.vhd" 
+BEGINPROGRESS C:\My_Designs\PicoMIPS\PicoMIPS\src\fd_tstb.vhd
+MESSAGE "Compile Entity "FD_tb"" 
+UPDATEPROGRESS 1
+MESSAGE "Compile Architecture "comportamental" of Entity "FD_tb"" 
+UPDATEPROGRESS 11
+UPDATEPROGRESS 12
+UPDATEPROGRESS 13
+UPDATEPROGRESS 14
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 19
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 23
+UPDATEPROGRESS 24
+UPDATEPROGRESS 25
+UPDATEPROGRESS 26
+UPDATEPROGRESS 27
+UPDATEPROGRESS 28
+UPDATEPROGRESS 29
+UPDATEPROGRESS 30
+UPDATEPROGRESS 31
+UPDATEPROGRESS 32
+UPDATEPROGRESS 33
+UPDATEPROGRESS 34
+UPDATEPROGRESS 35
+UPDATEPROGRESS 36
+UPDATEPROGRESS 37
+UPDATEPROGRESS 38
+UPDATEPROGRESS 39
+UPDATEPROGRESS 40
+UPDATEPROGRESS 41
+UPDATEPROGRESS 42
+UPDATEPROGRESS 43
+UPDATEPROGRESS 44
+UPDATEPROGRESS 45
+UPDATEPROGRESS 46
+UPDATEPROGRESS 47
+UPDATEPROGRESS 48
+UPDATEPROGRESS 49
+UPDATEPROGRESS 50
+UPDATEPROGRESS 51
+UPDATEPROGRESS 52
+UPDATEPROGRESS 53
+UPDATEPROGRESS 54
+UPDATEPROGRESS 55
+UPDATEPROGRESS 56
+UPDATEPROGRESS 57
+UPDATEPROGRESS 58
+UPDATEPROGRESS 59
+UPDATEPROGRESS 60
+UPDATEPROGRESS 61
+UPDATEPROGRESS 62
+UPDATEPROGRESS 63
+UPDATEPROGRESS 64
+UPDATEPROGRESS 65
+UPDATEPROGRESS 66
+UPDATEPROGRESS 67
+UPDATEPROGRESS 68
+UPDATEPROGRESS 69
+UPDATEPROGRESS 70
+UPDATEPROGRESS 71
+UPDATEPROGRESS 72
+UPDATEPROGRESS 73
+UPDATEPROGRESS 74
+UPDATEPROGRESS 75
+UPDATEPROGRESS 76
+UPDATEPROGRESS 77
+UPDATEPROGRESS 78
+UPDATEPROGRESS 79
+UPDATEPROGRESS 80
+UPDATEPROGRESS 81
+UPDATEPROGRESS 82
+UPDATEPROGRESS 83
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS C:\My_Designs\PicoMIPS\PicoMIPS\src\fd_tstb.vhd
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\hierarq_mem.vhd" 
+MESSAGE "Compile Entity "Hierarq_Estrut"" 
+MESSAGE "Compile Architecture "estrutural" of Entity "Hierarq_Estrut"" 
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\carimbo_tb.vhd" 
+BEGINPROGRESS C:\My_Designs\PicoMIPS\PicoMIPS\src\carimbo_tb.vhd
+MESSAGE "Compile Entity "Carimbo_tb"" 
+UPDATEPROGRESS 1
+MESSAGE "Compile Architecture "estrutural" of Entity "Carimbo_tb"" 
+UPDATEPROGRESS 6
+UPDATEPROGRESS 7
+UPDATEPROGRESS 8
+UPDATEPROGRESS 9
+UPDATEPROGRESS 10
+UPDATEPROGRESS 11
+UPDATEPROGRESS 12
+UPDATEPROGRESS 13
+UPDATEPROGRESS 14
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 19
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 23
+UPDATEPROGRESS 24
+UPDATEPROGRESS 25
+UPDATEPROGRESS 26
+UPDATEPROGRESS 27
+UPDATEPROGRESS 28
+UPDATEPROGRESS 29
+UPDATEPROGRESS 30
+UPDATEPROGRESS 31
+UPDATEPROGRESS 32
+UPDATEPROGRESS 33
+UPDATEPROGRESS 34
+UPDATEPROGRESS 35
+UPDATEPROGRESS 36
+UPDATEPROGRESS 37
+UPDATEPROGRESS 38
+UPDATEPROGRESS 39
+UPDATEPROGRESS 40
+UPDATEPROGRESS 41
+UPDATEPROGRESS 42
+UPDATEPROGRESS 43
+UPDATEPROGRESS 44
+UPDATEPROGRESS 45
+UPDATEPROGRESS 46
+UPDATEPROGRESS 47
+UPDATEPROGRESS 48
+UPDATEPROGRESS 49
+UPDATEPROGRESS 50
+UPDATEPROGRESS 51
+UPDATEPROGRESS 52
+UPDATEPROGRESS 53
+UPDATEPROGRESS 54
+UPDATEPROGRESS 55
+UPDATEPROGRESS 56
+UPDATEPROGRESS 57
+UPDATEPROGRESS 58
+UPDATEPROGRESS 59
+UPDATEPROGRESS 60
+UPDATEPROGRESS 61
+UPDATEPROGRESS 62
+UPDATEPROGRESS 63
+UPDATEPROGRESS 64
+UPDATEPROGRESS 65
+UPDATEPROGRESS 66
+UPDATEPROGRESS 67
+UPDATEPROGRESS 68
+UPDATEPROGRESS 69
+UPDATEPROGRESS 70
+UPDATEPROGRESS 71
+UPDATEPROGRESS 72
+UPDATEPROGRESS 73
+UPDATEPROGRESS 74
+UPDATEPROGRESS 75
+UPDATEPROGRESS 76
+UPDATEPROGRESS 77
+UPDATEPROGRESS 78
+UPDATEPROGRESS 79
+UPDATEPROGRESS 80
+UPDATEPROGRESS 81
+UPDATEPROGRESS 82
+UPDATEPROGRESS 83
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+WARNING ELAB1_0026: "There is no default binding for component "Carimbo_UC". (Port "menable" is not on the entity)." "C:\My_Designs\PicoMIPS\PicoMIPS\src\carimbo_tb.vhd" 52 0
+ENDPROGRESS C:\My_Designs\PicoMIPS\PicoMIPS\src\carimbo_tb.vhd
+MESSAGE "File: C:\My_Designs\PicoMIPS\PicoMIPS\src\mux_4x1_5b.vhd" 
+MESSAGE "Compile Entity "Mux_4x1_5b"" 
+MESSAGE "Compile Architecture "comportamental" of Entity "Mux_4x1_5b"" 
+SUCCESS "Compile success 0 Errors 2 Warnings  Analysis time :  1.0 [s]" 
